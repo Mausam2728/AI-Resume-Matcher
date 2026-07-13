@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+pypdf
+docx2txt
+sentence-transformers
+scikit-learn
+python-dotenv
+requests
